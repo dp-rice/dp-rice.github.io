@@ -1,4 +1,4 @@
-## Daniel P. Rice
+## Population genetics theory and data analysis
 
 I am a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago. 
 
