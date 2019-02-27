@@ -1,5 +1,12 @@
-## Welcome to GitHub Pages
+## Daniel P. Rice
 
+I am a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago. 
+
+Previously, I completed my PhD in Organismic and Evolutionary Biology with [Michael Desai](http://www.desai-lab.com/) at Harvard.
+
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=2zS2I7UAAAAJ&hl=en).
+
+<!---
 You can use the [editor on GitHub](https://github.com/dp-rice/dp-rice.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
