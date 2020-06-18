@@ -6,6 +6,8 @@ Previously, I completed my PhD in Organismic and Evolutionary Biology with [Mich
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=2zS2I7UAAAAJ&hl=en).
 
+Outside of research, I have designed workshops to [introduce high school students to computational biology](pdf/CSL_infosheet.pdf), and to [teach oral communication skills to graduate students](pdf/PresentationSkillsForGraduateStudents.pdf).
+
 <!---
 You can use the [editor on GitHub](https://github.com/dp-rice/dp-rice.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
