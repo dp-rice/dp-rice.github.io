@@ -1,12 +1,11 @@
 ## Population genetics theory and data analysis
 
-I am a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago. 
+I am a mathematical and computation biologist. I work at NIH/NCBI (contractor) developing [codeathons](https://ncbiinsights.ncbi.nlm.nih.gov/event/beyond-phylogenies-visualization-codeathon-07-22/) and [workshops](https://mybinder.org/v2/gh/drice-codeathons/workshop-ncbi-data-with-python/main?filepath=notebooks%2Fworkshop.py) to help biologists solve computational problems and learn data science skills.
 
-Previously, I completed my PhD in Organismic and Evolutionary Biology with [Michael Desai](http://www.desai-lab.com/) at Harvard.
+Previously, I was a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago. 
+I completed my PhD in Organismic and Evolutionary Biology with [Michael Desai](http://www.desai-lab.com/) at Harvard.
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=2zS2I7UAAAAJ&hl=en).
-
-Outside of research, I have designed workshops to [introduce high school students to computational biology](pdf/CSL_infosheet.pdf), and to [teach oral communication skills to graduate students](pdf/PresentationSkillsForGraduateStudents.pdf).
 
 <!---
 You can use the [editor on GitHub](https://github.com/dp-rice/dp-rice.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
