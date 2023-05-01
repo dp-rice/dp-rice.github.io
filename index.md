@@ -1,9 +1,11 @@
 ## Population genetics theory and data analysis
 
-I am a mathematical and computation biologist. I work at NIH/NCBI (contractor) developing [codeathons](https://ncbiinsights.ncbi.nlm.nih.gov/event/beyond-phylogenies-visualization-codeathon-07-22/) and [workshops](https://mybinder.org/v2/gh/drice-codeathons/workshop-ncbi-data-with-python/main?filepath=notebooks%2Fworkshop.py) to help biologists solve computational problems and learn data science skills.
+I am a mathematical and computation biologist developing statistical methods for detecting emerging pandemics in wastewater metagenomic data. I work on the [Nucleic Acid Observatory](https://www.naobservatory.org/) project at [SecureBio](https://securebio.org/) and [MIT's Sculpting Evolution](https://www.sculptingevolution.org/esvelt-lab) group.
 
-Previously, I was a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago. 
-I completed my PhD in Organismic and Evolutionary Biology with [Michael Desai](http://www.desai-lab.com/) at Harvard.
+Previously, I was a Postdoctoral Scholar in the [Novembre Lab](http://jnpopgen.org/) at the University of Chicago modeling the effects of selection on genetic variation over time and space. 
+I completed my PhD in Organismic and Evolutionary Biology with [Michael Desai](http://www.desai-lab.com/) at Harvard. My PhD research focused on mathematical models and statistical analysis of genetic change in rapidly evolving microbial populations.
+
+From 2020 to 2022 I worked at NIH/NCBI developing [codeathons](https://ncbiinsights.ncbi.nlm.nih.gov/event/beyond-phylogenies-visualization-codeathon-07-22/) and [workshops](https://mybinder.org/v2/gh/drice-codeathons/workshop-ncbi-data-with-python/main?filepath=notebooks%2Fworkshop.py) to help biologists solve computational problems and learn data science skills.
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=2zS2I7UAAAAJ&hl=en).
 
